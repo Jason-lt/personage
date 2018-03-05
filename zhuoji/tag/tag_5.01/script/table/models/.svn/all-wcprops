@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models
+END
+mahjong_table_model_budget.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_budget.js
+END
+mahjong_table_model_score.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_score.js
+END
+mahjong_table_model_task_loopwintimes.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_task_loopwintimes.js
+END
+mahjong_table_model_vote.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_vote.js
+END
+mahjong_table_model_charging.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_charging.js
+END
+mahjong_table_model_online.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_online.js
+END
+mahjong_event_ex.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_event_ex.js
+END
+mahjong_table_model_action_id.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_action_id.js
+END
+mahjong_table_model_task_loopacvive.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_task_loopacvive.js
+END
+mahjong_table_model_task_winstreak.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_task_winstreak.js
+END
+mahjong_table_model_notify_grab_gang_hu.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_notify_grab_gang_hu.js
+END
+mahjong_table_model_trustee.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_trustee.js
+END
+mahjong_table_model_leave.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_leave.js
+END
+mahjong_table_model_draw.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_draw.js
+END
+mahjong_table_model_ask_ting.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_ask_ting.js
+END
+mahjong_table_model_ting_result.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_ting_result.js
+END
+mahjong_table_model_chow.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_chow.js
+END
+mahjong_model_functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_model_functions.js
+END
+mahjong_table_model_ting_state.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_ting_state.js
+END
+mahjong_table_model_ready.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_ready.js
+END
+mahjong_table_model_flow.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_flow.js
+END
+mahjong_table_model_discard.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_discard.js
+END
+mahjong_table_model_in_table_check.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_in_table_check.js
+END
+mahjong_table_model_custom.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_custom.js
+END
+mahjong_table_model_notify_timeout.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_notify_timeout.js
+END
+mahjong_table_model_chat.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_chat.js
+END
+mahjong_table_model_count_down.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_count_down.js
+END
+mahjong_table_model_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_test.js
+END
+mahjong_table_model_showtips.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_showtips.js
+END
+mahjong_table_model_budget_final.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_budget_final.js
+END
+mahjong_table_model_round_result.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_round_result.js
+END
+mahjong_table_model_task_showtasktips.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_task_showtasktips.js
+END
+mahjong_table_model_ask_charge.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_ask_charge.js
+END
+mahjong_table_model_table_event.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_table_event.js
+END
+mahjong_table_model_charged.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_charged.js
+END
+mahjong_table_model_chong_feng.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_chong_feng.js
+END
+mahjong_table_model_kong.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_kong.js
+END
+mahjong_table_model_sit.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_sit.js
+END
+mahjong_table_model_table_info.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_table_info.js
+END
+mahjong_table_model_pong.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_pong.js
+END
+mahjong_table_model_grab_gang_hu.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_grab_gang_hu.js
+END
+mahjong_table_model_updateroundcount.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_updateroundcount.js
+END
+mahjong_table_model_prototype.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_prototype.js
+END
+mahjong_table_model_deal.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_deal.js
+END
+mahjong_table_model_location.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/mahjong_table_model_location.js
+END
+init.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/newsvn/qiji-js/!svn/ver/5864/majiang/guiyang/zhuoji/tag/tag_5.01/script/table/models/init.js
+END

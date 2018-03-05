@@ -1,0 +1,30 @@
+info face="xzmj_fnt_xjiesuanja" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=86 base=26 scaleW=276 scaleH=274 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="xzmj_fnt_xjiesuanja.png"
+chars count=23
+char id=27425 x=71 y=82 width=65 height=76 xoffset=0 yoffset=19 xadvance=63 page=0 chnl=0 letter="次"
+char id=32993 x=0 y=79 width=70 height=79 xoffset=0 yoffset=18 xadvance=68 page=0 chnl=0 letter="胡"
+char id=20493 x=69 y=159 width=66 height=74 xoffset=0 yoffset=21 xadvance=64 page=0 chnl=0 letter="倍"
+char id=36194 x=77 y=0 width=66 height=81 xoffset=0 yoffset=15 xadvance=64 page=0 chnl=0 letter="赢"
+char id=36755 x=0 y=0 width=76 height=78 xoffset=0 yoffset=19 xadvance=74 page=0 chnl=0 letter="输"
+char id=19981 x=0 y=159 width=68 height=72 xoffset=0 yoffset=22 xadvance=66 page=0 chnl=0 letter="不"
+char id=20159 x=136 y=215 width=53 height=58 xoffset=0 yoffset=29 xadvance=51 page=0 chnl=0 letter="亿"
+char id=19975 x=136 y=159 width=55 height=55 xoffset=0 yoffset=32 xadvance=53 page=0 chnl=0 letter="万"
+char id=49 x=235 y=115 width=33 height=56 xoffset=0 yoffset=30 xadvance=31 page=0 chnl=0 letter="1"
+char id=50 x=137 y=82 width=44 height=55 xoffset=0 yoffset=30 xadvance=42 page=0 chnl=0 letter="2"
+char id=51 x=190 y=215 width=43 height=56 xoffset=0 yoffset=30 xadvance=41 page=0 chnl=0 letter="3"
+char id=52 x=192 y=116 width=42 height=57 xoffset=0 yoffset=29 xadvance=40 page=0 chnl=0 letter="4"
+char id=53 x=189 y=0 width=43 height=57 xoffset=0 yoffset=29 xadvance=41 page=0 chnl=0 letter="5"
+char id=54 x=226 y=58 width=42 height=56 xoffset=0 yoffset=30 xadvance=40 page=0 chnl=0 letter="6"
+char id=55 x=234 y=174 width=39 height=55 xoffset=0 yoffset=30 xadvance=37 page=0 chnl=0 letter="7"
+char id=56 x=144 y=0 width=44 height=57 xoffset=0 yoffset=29 xadvance=42 page=0 chnl=0 letter="8"
+char id=57 x=233 y=0 width=42 height=56 xoffset=0 yoffset=29 xadvance=40 page=0 chnl=0 letter="9"
+char id=48 x=182 y=58 width=43 height=57 xoffset=0 yoffset=30 xadvance=41 page=0 chnl=0 letter="0"
+char id=43 x=0 y=234 width=37 height=39 xoffset=0 yoffset=37 xadvance=35 page=0 chnl=0 letter="+"
+char id=45 x=38 y=234 width=36 height=18 xoffset=0 yoffset=48 xadvance=34 page=0 chnl=0 letter="-"
+char id=46 x=38 y=253 width=18 height=20 xoffset=0 yoffset=65 xadvance=16 page=0 chnl=0 letter="."
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+char id=32 x=183 y=125 width=0 height=0 xoffset=13 yoffset=73 xadvance=7 page=0 chnl=0 letter="space"
+
+kernings count=0

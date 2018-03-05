@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/newsvn/qiji-js/!svn/ver/6987/majiang/guiyang/zhuoji/trunk
+END
+copy_to_hall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/newsvn/qiji-js/!svn/ver/5902/majiang/guiyang/zhuoji/trunk/copy_to_hall.sh
+END
+copy_res.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/newsvn/qiji-js/!svn/ver/5346/majiang/guiyang/zhuoji/trunk/copy_res.sh
+END
+make_publish.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/newsvn/qiji-js/!svn/ver/5346/majiang/guiyang/zhuoji/trunk/make_publish.sh
+END

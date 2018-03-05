@@ -1,0 +1,34 @@
+
+figures.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+figures
+  rotate: true
+  xy: 2, 2
+  size: 492, 597
+  orig: 492, 597
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: false
+  xy: 601, 319
+  size: 249, 175
+  orig: 249, 175
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 852, 471
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: false
+  xy: 601, 120
+  size: 157, 197
+  orig: 157, 197
+  offset: 0, 0
+  index: -1

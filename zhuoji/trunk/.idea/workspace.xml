@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="dcba3456-6b40-4a21-9d55-e9eef72e316d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/version.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publish/script/table/scenes/table/mahjong_table_scene.js" afterPath="$PROJECT_DIR$/publish/script/table/scenes/table/mahjong_table_scene.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publish/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js" afterPath="$PROJECT_DIR$/publish/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publish/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js" afterPath="$PROJECT_DIR$/publish/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/table/scenes/table/mahjong_table_scene.js" afterPath="$PROJECT_DIR$/script/table/scenes/table/mahjong_table_scene.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js" afterPath="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js" afterPath="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skins/common/ccb/自建桌小结算/gymj_budget_user_lose_cell.ccb" afterPath="$PROJECT_DIR$/skins/common/ccb/自建桌小结算/gymj_budget_user_lose_cell.ccb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skins/common/ccb/自建桌小结算/gymj_budget_user_win_cell.ccb" afterPath="$PROJECT_DIR$/skins/common/ccb/自建桌小结算/gymj_budget_user_win_cell.ccb" />
+    </list>
+    <ignored path="trunk.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="trunk" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mahjong_table_panels_player.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10305">
+              <caret line="687" column="8" selection-start-line="687" selection-start-column="8" selection-end-line="687" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_table_module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/table/modules/table/mahjong_table_module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2670">
+              <caret line="178" column="24" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_table_panels_discard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_discard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2160">
+              <caret line="144" column="69" selection-start-line="144" selection-start-column="48" selection-end-line="144" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/businesses/mahjong_functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="436" column="49" selection-start-line="436" selection-start-column="49" selection-end-line="436" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_gymj_budgets_user_lose_cell.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="181" column="44" selection-start-line="181" selection-start-column="44" selection-end-line="181" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_gymj_budgets_user_win_cell.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="177" column="67" selection-start-line="177" selection-start-column="67" selection-end-line="177" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_table_scene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/table/scenes/table/mahjong_table_scene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2670">
+              <caret line="178" column="101" selection-start-line="178" selection-start-column="101" selection-end-line="178" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahj_match_waiting_in_match.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_in_match.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2190">
+              <caret line="146" column="49" selection-start-line="146" selection-start-column="49" selection-end-line="146" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_room_list_scene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/businesses/scenes/room_list/mahjong_room_list_scene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahjong_match_model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7395">
+              <caret line="493" column="34" selection-start-line="493" selection-start-column="25" selection-end-line="493" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/script/table/windows/ask_charge/mahjong_table_ask_charge_window.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_discard.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_absence_end.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_player_own.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/mahjong/mahjong_table_mahjong_mahj_own.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_result_cell.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_budget.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_budgets_cell.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/ask_ting/mahjong_table_ting_preview_tips.js" />
+        <option value="$PROJECT_DIR$/script/bkernel/utils/mahjong_todotasks.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_sign_count_down_panel.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_full_animation_controller.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/methods/mahjong_table_methods_button.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_result_scene.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_budgets.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_bye.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_panel.js" />
+        <option value="$PROJECT_DIR$/script/mj_define.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_model.js" />
+        <option value="$PROJECT_DIR$/script/table/mahjong_table_effect_manager.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_task_showtasktips.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/mahjong_window_consts.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_task_loopwintimes.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_result_layer.js" />
+        <option value="$PROJECT_DIR$/script/bkernel/windows/mahjong_window_factory.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_task_loopacvive.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_sit.js" />
+        <option value="$PROJECT_DIR$/script/table/network/mahjong_events.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_task_streak_cell.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/menu/mahjong_table_menu_window.js" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_table_info.js" />
+        <option value="$PROJECT_DIR$/config/guiyang_include.json" />
+        <option value="$PROJECT_DIR$/script/table/models/mahjong_table_model_task_winstreak.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahj_match_lvup_panel.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/mahjong_table_wind.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahj_match_details_controller.js" />
+        <option value="$PROJECT_DIR$/script/bkernel/network/mahjong_msg_cache.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/mahjong/mahjong_table_mahjong_mahj.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/mahjong_table_info.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_task_cell.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_task_streaks_cell.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_player.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_list_cell.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/room_list/mahjong_room_list_scene.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_list_scene.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/custom_room/gdmj_introduction_details_cell.js" />
+        <option value="$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_in_match.js" />
+        <option value="$PROJECT_DIR$/script/table/modules/table/mahjong_table_module.js" />
+        <option value="$PROJECT_DIR$/script/table/scenes/table/mahjong_table_scene.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js" />
+        <option value="$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-86" />
+    <option name="y" value="78" />
+    <option name="width" value="1794" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="windows" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="windows" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="budgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/mahjongs/majiang/sichuan/xuezhan/trunk" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/script/businesses/scenes/match_wait" />
+      <recent name="$PROJECT_DIR$/script/businesses/scenes/match" />
+      <recent name="$PROJECT_DIR$/script/table/models" />
+      <recent name="$PROJECT_DIR$/script/table/windows/budgets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcba3456-6b40-4a21-9d55-e9eef72e316d" name="Default" comment="" />
+      <created>1512270076457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512270076457</updated>
+      <workItem from="1512270077758" duration="311000" />
+      <workItem from="1512270587376" duration="2060000" />
+      <workItem from="1512408093803" duration="34366000" />
+      <workItem from="1512494884154" duration="24604000" />
+      <workItem from="1512580455534" duration="28998000" />
+      <workItem from="1512666909374" duration="31947000" />
+      <workItem from="1512753096695" duration="21470000" />
+      <workItem from="1513012838172" duration="29348000" />
+      <workItem from="1513099249409" duration="32208000" />
+      <workItem from="1513185476849" duration="27174000" />
+      <workItem from="1513272268583" duration="18153000" />
+      <workItem from="1513314330535" duration="2406000" />
+      <workItem from="1513358601496" duration="23907000" />
+      <workItem from="1513444916371" duration="11650000" />
+      <workItem from="1513617756473" duration="24332000" />
+      <workItem from="1513704040655" duration="21617000" />
+      <workItem from="1513790714640" duration="25649000" />
+      <workItem from="1513876695512" duration="23205000" />
+      <workItem from="1513963662007" duration="25467000" />
+      <workItem from="1514223336593" duration="24653000" />
+      <workItem from="1514309039959" duration="29311000" />
+      <workItem from="1514395264695" duration="18476000" />
+      <workItem from="1514481382378" duration="18692000" />
+      <workItem from="1514568962862" duration="5226000" />
+      <workItem from="1514913870231" duration="21857000" />
+      <workItem from="1514951696298" duration="6880000" />
+      <workItem from="1514999900563" duration="14629000" />
+      <workItem from="1515086642744" duration="7370000" />
+      <workItem from="1515096158893" duration="16594000" />
+      <workItem from="1515172749463" duration="14552000" />
+      <workItem from="1515432632661" duration="16967000" />
+      <workItem from="1515518288515" duration="18214000" />
+      <workItem from="1515606328616" duration="20487000" />
+      <workItem from="1515692551227" duration="19787000" />
+      <workItem from="1515778722043" duration="4194000" />
+      <workItem from="1515786523408" duration="11871000" />
+      <workItem from="1515864997940" duration="25973000" />
+      <workItem from="1516037397822" duration="21989000" />
+      <workItem from="1516124285580" duration="17429000" />
+      <workItem from="1516211137385" duration="20147000" />
+      <workItem from="1516297282673" duration="14670000" />
+      <workItem from="1516383736195" duration="13457000" />
+      <workItem from="1516643091829" duration="16976000" />
+      <workItem from="1516729685649" duration="15791000" />
+      <workItem from="1516816099202" duration="11712000" />
+      <workItem from="1516902570873" duration="23030000" />
+      <workItem from="1516988828230" duration="6742000" />
+      <workItem from="1517247909561" duration="22113000" />
+      <workItem from="1517333744336" duration="23556000" />
+      <workItem from="1517420741761" duration="18348000" />
+      <workItem from="1517507032717" duration="17651000" />
+      <workItem from="1517593323777" duration="13205000" />
+      <workItem from="1517678119281" duration="13584000" />
+      <workItem from="1517851807662" duration="24211000" />
+      <workItem from="1517938038768" duration="23048000" />
+      <workItem from="1518032439035" duration="12375000" />
+      <workItem from="1518110624685" duration="22937000" />
+      <workItem from="1518197154832" duration="12462000" />
+      <workItem from="1518369717011" duration="20653000" />
+      <workItem from="1518402299961" duration="2440000" />
+      <workItem from="1518456204707" duration="20024000" />
+      <workItem from="1518542482302" duration="15476000" />
+      <workItem from="1518629537625" duration="7960000" />
+      <workItem from="1519320434355" duration="13049000" />
+      <workItem from="1519406585702" duration="18171000" />
+      <workItem from="1519493156172" duration="16128000" />
+      <workItem from="1519666502228" duration="25365000" />
+      <workItem from="1519752444438" duration="14106000" />
+      <workItem from="1519862531137" duration="2363000" />
+      <workItem from="1519879552963" duration="320000" />
+      <workItem from="1520012564604" duration="9063000" />
+      <workItem from="1520271287011" duration="5423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1240579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-86" y="78" width="1794" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24703892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5490654" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_events_ex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_c2s_ex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="33" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahj_match_rank_flag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahj_match_waiting_panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahj_match_lvup_panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/script/table/modules/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/mahjong_table_wind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/modules/table/mahjong_table_module_static.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/bkernel/utils/mahjong_notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/mj_define.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/bkernel/network/mahjong_msg_cache.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/modules/table_record/mahjong_table_record_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/models/mahjong_table_model_absence_own.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/models/mahjong_table_model_ask_charge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/models/mahjong_table_model_absence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-849">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/models/mahjong_table_model_absence_end.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2220">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_player_own.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8805">
+          <caret line="587" column="23" selection-start-line="587" selection-start-column="16" selection-end-line="587" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/mahjong/mahjong_table_mahjong_mahj_own.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/mahjong/mahjong_table_mahjong_mahj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/models/mahjong_table_model_table_info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="158" column="108" selection-start-line="158" selection-start-column="108" selection-end-line="158" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/mahjong_table_info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_task_streaks_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_task_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_result_layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="50" selection-start-line="143" selection-start-column="50" selection-end-line="143" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/utils/mahjong_scene_utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/mahjong_events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/network/mahjong_s2c.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="126" selection-start-line="42" selection-start-column="122" selection-end-line="42" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/mahjong_game_world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="208" column="55" selection-start-line="208" selection-start-column="12" selection-end-line="208" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/room_list/mahjong_room_list_model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" column="108" selection-start-line="61" selection-start-column="92" selection-end-line="61" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/room_list/mahjong_events_ex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_list_center_static.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/script/businesses/scenes/match/mahjong_c2s_ex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahj_match_details_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="245" column="21" selection-start-line="245" selection-start-column="8" selection-end-line="245" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_list_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_list_scene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/custom_room/gdmj_introduction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="144" column="89" selection-start-line="144" selection-start-column="81" selection-end-line="144" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/custom_room/gdmj_introduction_details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="80" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/custom_room/gdmj_introduction_details_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/models/mahjong_table_model_task_winstreak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_ranking_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match_wait/mahj_match_waiting_in_match.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="146" column="49" selection-start-line="146" selection-start-column="49" selection-end-line="146" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/match/mahjong_match_model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7395">
+          <caret line="493" column="34" selection-start-line="493" selection-start-column="25" selection-end-line="493" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/scenes/room_list/mahjong_room_list_scene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/guiyang_include.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10305">
+          <caret line="687" column="8" selection-start-line="687" selection-start-column="8" selection-end-line="687" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/modules/table/mahjong_table_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2670">
+          <caret line="178" column="24" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/mahjong_table_scene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2670">
+          <caret line="178" column="101" selection-start-line="178" selection-start-column="101" selection-end-line="178" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/scenes/table/panels/mahjong_table_panels_discard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="144" column="69" selection-start-line="144" selection-start-column="48" selection-end-line="144" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/businesses/mahjong_functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="436" column="49" selection-start-line="436" selection-start-column="49" selection-end-line="436" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_lose_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="181" column="44" selection-start-line="181" selection-start-column="44" selection-end-line="181" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/table/windows/budgets/mahjong_gymj_budgets_user_win_cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="177" column="67" selection-start-line="177" selection-start-column="67" selection-end-line="177" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

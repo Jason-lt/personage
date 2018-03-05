@@ -1,0 +1,15 @@
+info face="FZCuYuan-M03S" size=120 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=135 base=107 scaleW=296 scaleH=415 pages=1 packed=0
+page id=0 file="ddz_share_num.png"
+chars count=10
+char id=48     x=2     y=2     width=74    height=102   xoffset=1     yoffset=14    xadvance=68    page=0  chnl=0  letter="0"
+char id=49     x=73    y=210   width=44    height=100   xoffset=1     yoffset=16    xadvance=44    page=0  chnl=0  letter="1234567890"
+char id=50     x=152   y=106   width=68    height=101   xoffset=4     yoffset=15    xadvance=68    page=0  chnl=0  letter="234567890"
+char id=51     x=224   y=2     width=70    height=102   xoffset=2     yoffset=14    xadvance=68    page=0  chnl=0  letter="34567890"
+char id=52     x=74    y=106   width=76    height=101   xoffset=0     yoffset=15    xadvance=68    page=0  chnl=0  letter="4567890"
+char id=53     x=2     y=210   width=69    height=100   xoffset=2     yoffset=16    xadvance=68    page=0  chnl=0  letter="567890"
+char id=54     x=78    y=2     width=71    height=102   xoffset=2     yoffset=14    xadvance=68    page=0  chnl=0  letter="67890"
+char id=55     x=222   y=106   width=71    height=100   xoffset=0     yoffset=16    xadvance=64    page=0  chnl=0  letter="7890"
+char id=56     x=2     y=106   width=70    height=102   xoffset=3     yoffset=14    xadvance=68    page=0  chnl=0  letter="890"
+char id=57     x=151   y=2     width=71    height=102   xoffset=2     yoffset=14    xadvance=68    page=0  chnl=0  letter="90"
+kernings count=0

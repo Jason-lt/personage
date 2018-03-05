@@ -1,0 +1,48 @@
+{
+	"zhuoji":{
+		"play_mode":"贵阳捉鸡",
+		"base_rule":[
+		    { "content":"玩家人数：4人。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"共108张牌：条、筒、万各36张。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"起张牌数：庄家的起张牌数为14张，闲家的起张牌数为13张。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} }
+		],
+		"base_sometype":[
+			{ "content" :"【番型】", "font":"Arial-BoldMT", "size":30, "color":{"rr":136, "gg":63, "bb":17}},
+			{ "content":"平胡：1番，基本胡", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"大对子：5番，即对对胡，成牌时有4个三张相同的和1个对；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"清一色：10番，成牌时所有牌都同一花色", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"单吊：10番，4组刻子，一张单牌，胡牌即为单吊", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"双清：20番，清一色单吊： ", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"清大对：15番，成牌时有4组刻子和1个对，且同一花色", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"七对：10番，成牌时由7个对子组成；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"龙七对：20，成牌时由5个对子和4个相同的牌组成，胡的那张必须是4张相同的；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"清七对：20，成牌时由7个对子组成，且同一花色；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"青龙背：由5组对子和3张相同的牌组成，且同一花色。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content" :"【特殊胡牌】", "font":"Arial-BoldMT", "size":30, "color":{"rr":136, "gg":63, "bb":17}},
+			{ "content":"自摸：1番，胡牌基础上额外收其他玩家1番；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"杠上胡：3番，杠牌后立即自摸胡牌，胡牌基础上额外收其他玩家3番；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"热炮：1番，杠牌后立即摸牌点炮，点炮者在胡牌牌型基础上向胡牌这额外赔付1番；（点炮者 “鸡”和“豆”不计，需倒赔的冲锋鸡、责任鸡仍然生效，热炮能胡必胡）", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"抢杠胡：9番，某玩家在成转弯豆的情况下，有听牌玩家正好听此玩家转弯豆的牌，则听牌玩家可以胡牌，称为“抢杠”。被抢者在胡牌牌型基础上向胡牌这额外赔付9番；（点炮者 “鸡”和“豆”不计，需倒赔的冲锋鸡、责任鸡仍然生效，抢杠胡能胡必胡）", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"硬报听胡：20番，硬报情况下胡牌，额外收取20番；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"杀硬报听胡：20番，硬报情况下点炮，额外赔付20番；", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"软报听胡：10番，软报听情况下胡牌，额外收取10番。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"杀软报听胡：10番，软报情况下点炮，额外赔付10番。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} }
+		],
+		"special_rule":[
+			{ "content" :"【操作】", "font":"Arial-BoldMT", "size":30, "color":{"rr":136, "gg":63, "bb":17}},
+			{ "content":"可摸牌，可碰，可杠，可胡，不可吃牌。", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content" :"【听牌】", "font":"Arial-BoldMT", "size":30, "color":{"rr":136, "gg":63, "bb":17}},
+			{ "content":"硬报听：发牌后在庄家出牌之前，达成差一张牌即可胡牌状态，可进行硬报听，如此时放弃，之后再报听只算软报，硬报胡牌额外加20番（庄家天胡按硬报听计算）", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"软报听：打出第一张牌之后，达成差一张牌即可胡牌状态，可进行软报听，硬报胡牌额外加10番", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} },
+			{ "content":"特别的杠、碰后不能报听", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77} }
+		],
+		"balance":[
+			{ "content" :"1、无人叫嘴，则算平局，无输赢", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77}},
+			{ "content" :"2、全部叫嘴，则算平局，无输赢", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77}},
+			{ "content" :"3、有人叫牌，有人没叫牌。没叫牌的玩家要分别给每个叫牌玩家牌形对应的最大番值", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77}}
+		],
+		"friend_room":[
+		{ "content" :"暂未开放，敬请期待", "font":"Arial", "size":24, "color":{"rr":195, "gg":135, "bb":77}}
+		]
+	}
+}
